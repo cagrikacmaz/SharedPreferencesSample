@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferences Beykent</string>
+    <string name="clear">Temizle</string>
+    <string name="save">Kaydet</string>
+    <string name="retrieve">Geri Çağır</string>
+
+</resources>
